@@ -1,0 +1,33 @@
+{
+  "name": "YT+",
+  "identifier": "nl.tom.ytplus.source",
+  "subtitle": "Persoonlijke YouTube-client",
+  "iconURL": "https://raw.githubusercontent.com/tom-rassaerts/ytplus-ios-builds/main/icon.png",
+  "apps": [
+    {
+      "name": "YT+",
+      "bundleIdentifier": "nl.tom.ytplus.ios",
+      "developerName": "tom-rassaerts",
+      "subtitle": "YouTube met SponsorBlock, PiP en downloads",
+      "localizedDescription": "Persoonlijke YouTube-client. Alleen voor eigen gebruik.",
+      "iconURL": "https://raw.githubusercontent.com/tom-rassaerts/ytplus-ios-builds/main/icon.png",
+      "tintColor": "#FF0033",
+      "versions": [
+        {
+          "version": "0.2.7",
+          "buildVersion": "7",
+          "date": "2026-11-16T15:53:58Z",
+          "localizedDescription": "Build 7 (commit 3f90d38)",
+          "downloadURL": "https://raw.githubusercontent.com/tom-rassaerts/ytplus-ios-builds/main/YTPlus.ipa?v=7",
+          "size": 1154322,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}

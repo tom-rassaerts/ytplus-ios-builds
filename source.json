@@ -16,10 +16,10 @@
         {
           "version": "0.2.7",
           "buildVersion": "7",
-          "date": "2026-11-16T15:53:58Z",
+          "date": "2026-11-16T15:58:38Z",
           "localizedDescription": "Build 7 (commit 3f90d38)",
           "downloadURL": "https://raw.githubusercontent.com/tom-rassaerts/ytplus-ios-builds/main/YTPlus.ipa?v=7",
-          "size": 1154322,
+          "size": 1142821,
           "minOSVersion": "17.0"
         }
       ],

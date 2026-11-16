@@ -14,12 +14,12 @@
       "tintColor": "#FF0033",
       "versions": [
         {
-          "version": "0.2.7",
-          "buildVersion": "7",
-          "date": "2026-11-16T15:58:38Z",
-          "localizedDescription": "Build 7 (commit 3f90d38)",
-          "downloadURL": "https://raw.githubusercontent.com/tom-rassaerts/ytplus-ios-builds/main/YTPlus.ipa?v=7",
-          "size": 1142821,
+          "version": "0.2.8",
+          "buildVersion": "8",
+          "date": "2026-11-16T16:01:41Z",
+          "localizedDescription": "Build 8 (commit 5c99d74)",
+          "downloadURL": "https://raw.githubusercontent.com/tom-rassaerts/ytplus-ios-builds/main/YTPlus.ipa?v=8",
+          "size": 1145326,
           "minOSVersion": "17.0"
         }
       ],
